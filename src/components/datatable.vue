@@ -13,7 +13,7 @@
       <v-col md="3"><v-card class="pa-2" outlined> {{ items.email }}</v-card></v-col>
       <td></td>
     </v-row>
-    <v-btn class="mr-4" @click="page">Register  more</v-btn>
+    <v-btn class="mr-4" @click="page">Register more</v-btn>
   </div>
 </template>
 
