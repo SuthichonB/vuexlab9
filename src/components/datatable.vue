@@ -16,7 +16,6 @@
     <v-btn class="mr-4" @click="page">Register more</v-btn>
   </div>
 </template>
-
 <script>
 export default {
   methods: {
